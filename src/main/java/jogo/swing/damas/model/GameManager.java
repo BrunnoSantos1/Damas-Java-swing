@@ -101,7 +101,7 @@ public class GameManager {
 
                     // Força a JanelaPrincipal a se repintar visualmente
                     // Para isso, precisamos avisar o controller. Como estamos fazendo front-to-back,
-                    // certifique-se de que a JanelaPrincipal chame seu método de sincronizar após a IA jogar.
+                    // certifique-se de que a JanelaPrincipal chame seu mtodo de sincronizar após a IA jogar.
                 });
 
             } catch (InterruptedException e) {
